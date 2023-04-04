@@ -1,0 +1,113 @@
+Current browser: chrome
+Chrome going to launch
+Report object created
+Successfully clicked on - New account Creation
+Successfully clicked on - Canada
+Successfully clicked on - Canada-Standard
+Successfully clicked on - 
+Successfully Entered text - <b style="color:green;">Qmperformance1+3699@gmail.com</b>
+Actual Text - Qmperformance1+3699@gmail.com
+Expected Text - Qmperformance1+3699@gmail.com
+Successfully clicked on - Submit
+Successfully clicked on - Submit
+Successfully get element text - Verification Complete
+Successfully get element text - Your email address has been successfully verified. Thank you!
+Successfully clicked on - Continue
+Successfully clicked on - 
+Successfully Entered text - <b style="color:green;">Dipu</b>
+Actual Text - Dipu
+Expected Text - Dipu
+Successfully clicked on - 
+Successfully Entered text - <b style="color:green;">Patel</b>
+Actual Text - Patel
+Expected Text - Patel
+Successfully clicked on - 
+Successfully Entered text - <b style="color:green;">Quality@123</b>
+Actual Text - Quality@123
+Expected Text - Quality@123
+Successfully clicked on - 
+Successfully Entered text - <b style="color:green;">Quality@123</b>
+Actual Text - Quality@123
+Expected Text - Quality@123
+Successfully clicked on - 
+Successfully Entered text - <b style="color:green;">Test</b>
+Actual Text - Test
+Expected Text - Test
+Successfully clicked on - create account submit button
+Actual Text - Man
+Expected Text - Man
+Successfully clicked on - 
+Successfully Entered text - <b style="color:green;">9632587412</b>
+Actual Text - 9632587412
+Expected Text - 9632587412
+Successfully clicked on - click next button
+Successfully clicked on - add credentials button
+Actual Text - India
+Expected Text - India
+Actual Text - University Education
+Expected Text - University Education
+Actual Text - Bachelor's Degree Programs
+Expected Text - Bachelor's Degree Programs
+Successfully clicked on - 
+Successfully Entered text - <b style="color:green;">University of Mumbai</b>
+Actual Text - University of Mumbai
+Expected Text - University of Mumbai
+Successfully clicked on - 
+Successfully Entered text - <b style="color:green;">Dipu</b>
+Actual Text - Dipu
+Expected Text - Dipu
+Successfully clicked on - 
+Successfully Entered text - <b style="color:green;">Patel</b>
+Actual Text - Patel
+Expected Text - Patel
+Successfully clicked on - 
+Successfully Entered text - <b style="color:green;">Bachelor of Computer Science and Engineering</b>
+Actual Text - Bachelor of Computer Science and Engineering
+Expected Text - Bachelor of Computer Science and Engineering
+Successfully clicked on - click on save button
+Successfully clicked on - click next button
+Successfully clicked on - Add+Address
+Actual Text - India
+Expected Text - India
+Successfully clicked on - 
+Successfully Entered text - <b style="color:green;">Madhapur</b>
+Actual Text - Madhapur
+Expected Text - Madhapur
+Successfully clicked on - 
+Successfully Entered text - <b style="color:green;">Hyderabad</b>
+Actual Text - Hyderabad
+Expected Text - Hyderabad
+Actual Text - International Courier - ($85.00)
+Expected Text - International Courier - ($85.00)
+Successfully clicked on - click on save button
+Successfully clicked on - click on next
+Successfully clicked on - click on next button
+Successfully clicked on - click on next button
+Successfully clicked on - click checkbox1
+Successfully clicked on - click checkbox2
+Successfully clicked on - click checkbox3
+Successfully clicked on - click checkbox4
+Successfully clicked on - click on next button
+Successfully clicked on - click on confirm checkbox
+Successfully clicked on - click confirm button
+Successfully clicked on - Accepted Harmonized Sales Tax Eligibility
+Successfully clicked on - Selected Continue Button
+Successfully clicked on - select payment type
+Successfully clicked on - click submit
+Successfully clicked on - 
+Successfully Entered text - <b style="color:green;">QM</b>
+Actual Text - QM
+Expected Text - QM
+Successfully clicked on - 
+Successfully Entered text - <b style="color:green;">4030000010001234</b>
+Actual Text - 4030000010001234
+Expected Text - 4030000010001234
+Successfully clicked on - 
+Successfully Entered text - <b style="color:green;">123</b>
+Successfully clicked on - payment submit button
+Successfully get element text - Your WES Reference Number is 5447214
+Successfully get element text - Your WES Reference Number is 5447214
+5447214
+Successfully clicked on - Return To MyAccount
+Successfully get element text - You have submitted your application. Please allow 15 minutes for your status to be updated.
+Successfully clicked on - Logout MyAccount

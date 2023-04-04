@@ -1,0 +1,127 @@
+Current browser: chrome
+Chrome going to launch
+01.01.0001.00.00.00
+Report object created
+Successfully clicked on - New account Creation
+Successfully clicked on - US
+Successfully clicked on - 
+Successfully Entered text - <b style="color:green;">Qmperformance1+0909@gmail.com</b>
+Actual Text - Qmperformance1+0909@gmail.com
+Expected Text - Qmperformance1+0909@gmail.com
+Successfully clicked on - Submit
+Successfully clicked on - Submit
+Successfully get element text - Verification Complete
+Successfully get element text - Your email address has been successfully verified. Thank you!
+Successfully clicked on - Continue
+Successfully clicked on - 
+Successfully Entered text - <b style="color:green;">Syra</b>
+Actual Text - Syra
+Expected Text - Syra
+Successfully clicked on - 
+Successfully Entered text - <b style="color:green;">Babbi</b>
+Actual Text - Babbi
+Expected Text - Babbi
+Successfully clicked on - 
+Successfully Entered text - <b style="color:green;">Quality@123</b>
+Actual Text - Quality@123
+Expected Text - Quality@123
+Successfully clicked on - 
+Successfully Entered text - <b style="color:green;">Quality@123</b>
+Actual Text - Quality@123
+Expected Text - Quality@123
+Successfully clicked on - 
+Successfully Entered text - <b style="color:green;">Test</b>
+Actual Text - Test
+Expected Text - Test
+Successfully clicked on - create account submit button
+Actual Text - WES Website
+Expected Text - WES Website
+Actual Text - Man
+Expected Text - Man
+Successfully clicked on - 
+Successfully Entered text - <b style="color:green;">9632587412</b>
+Actual Text - 9632587412
+Expected Text - 9632587412
+Successfully clicked on - click next button
+Successfully clicked on - select application type
+Successfully clicked on - click next button
+Successfully clicked on - add credentials button
+Actual Text - India
+Expected Text - India
+Actual Text - University Education
+Expected Text - University Education
+Actual Text - Bachelor's Degree Programs
+Expected Text - Bachelor's Degree Programs
+Successfully clicked on - 
+Successfully Entered text - <b style="color:green;">University of Mumbai</b>
+Actual Text - University of Mumbai
+Expected Text - University of Mumbai
+Successfully clicked on - 
+Successfully Entered text - <b style="color:green;">Syra</b>
+Actual Text - Syra
+Expected Text - Syra
+Successfully clicked on - 
+Successfully Entered text - <b style="color:green;">Babbi</b>
+Actual Text - Babbi
+Expected Text - Babbi
+Successfully clicked on - 
+Successfully Entered text - <b style="color:green;">Bachelor of Computer Science and Engineering</b>
+Actual Text - Bachelor of Computer Science and Engineering
+Expected Text - Bachelor of Computer Science and Engineering
+Successfully clicked on - click on save button
+Successfully clicked on - click next button
+Successfully clicked on - Add+Address
+Actual Text - United States of America
+Expected Text - United States of America
+Successfully clicked on - 
+Successfully Entered text - <b style="color:green;">175 downtown</b>
+Actual Text - 175 downtown
+Expected Text - 175 downtown
+Successfully clicked on - 
+Successfully Entered text - <b style="color:green;">New York</b>
+Actual Text - New York
+Expected Text - New York
+Successfully clicked on - 
+Successfully Entered text - <b style="color:green;">87012</b>
+Actual Text - Overnight Courier - ($37.00)
+Expected Text - Overnight Courier - ($37.00)
+Successfully clicked on - click on save button
+Successfully clicked on - selected additional copies as 'YES'
+Successfully clicked on - Add Recipient
+Successfully Entered text - <b style="color:green;">New Jersey Board of Pharmacy</b>
+Successfully clicked on - search Recipient
+Successfully clicked on - Select Recipient Institution
+Actual Text - 3-5 days - ($16.00)
+Expected Text - 3-5 days - ($16.00)
+Successfully clicked on - click on Add Recipient
+Successfully clicked on - click on next
+Successfully clicked on - Other available evaluation packages
+Successfully clicked on - selecting price
+Successfully clicked on - click on next button
+Successfully clicked on - click on next button
+Successfully clicked on - click checkbox1
+Successfully clicked on - click checkbox2
+Successfully clicked on - click checkbox3
+Successfully clicked on - click checkbox4
+Successfully clicked on - click on next button
+Successfully clicked on - click on confirm checkbox
+Successfully clicked on - click confirm button
+Successfully clicked on - select payment type
+Successfully clicked on - click submit
+Successfully clicked on - 
+Successfully Entered text - <b style="color:green;">QM</b>
+Actual Text - QM
+Expected Text - QM
+Successfully clicked on - 
+Successfully Entered text - <b style="color:green;">4030000010001234</b>
+Actual Text - 4030000010001234
+Expected Text - 4030000010001234
+Successfully clicked on - 
+Successfully Entered text - <b style="color:green;">123</b>
+Successfully clicked on - payment submit button
+Successfully get element text - Your WES Reference Number is 5447285
+Successfully get element text - Your WES Reference Number is 5447285
+5447285
+Successfully clicked on - Return To MyAccount
+Successfully get element text - You have submitted your application. Please allow 15 minutes for your status to be updated.
+Successfully clicked on - Logout MyAccount
